@@ -1,0 +1,1 @@
+{"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRlbW8iLCJlbWFpbCI6ImRlbW9AZXhhbXBsZS5jb20iLCJpYXQiOjE3ODM4ODU2MTh9.ELis0J2yUyP76d8IEusLiDoSsl4ZOREZ2ktXNaFqe3w","user":{"username":"demo","email":"demo@example.com","password":"secret"}}

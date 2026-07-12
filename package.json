@@ -1,0 +1,16 @@
+{
+  "name": "giftlink-capstone",
+  "version": "1.0.0",
+  "description": "GiftLink full-stack capstone project for IBM assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js && node --check db.js && node --check giftRoutes.js && node --check searchRoutes.js && node --check authRoutes.js && node --check index.js && node --check RegisterPage.js && node --check LoginPage.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.1",
+    "natural": "^8.0.1"
+  },
+  "license": "MIT"
+}
